@@ -1,0 +1,16 @@
+[
+{
+  "modid": "socks",
+  "name": "Socks",
+  "description": "Make connectable to WebSocket Server (ex. ws:// wss://)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["paphere"],
+  "credits": "The Forge and FML guys, for mdk",
+  "logoFile": "images/branding/socks-large.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
